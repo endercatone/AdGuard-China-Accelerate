@@ -1,7 +1,1 @@
-[/createchstudio.com/]https://cloudflare-dns.com/dns-query
-[/atcrea.tech/]https://cloudflare-dns.com/dns-query
-[/createch.eu.org/]https://cloudflare-dns.com/dns-query
-https://cloudflare-dns.com/dns-query
-tls://one.one.one.one
-https://dns.google/dns-query
-tls://dns.google
+192.168.5.1:6553
