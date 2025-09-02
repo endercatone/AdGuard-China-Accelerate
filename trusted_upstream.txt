@@ -1,1 +1,1 @@
-192.168.5.1:6553
+https://sm3.sakurayuri.top/dns-query/53a3af20-0256-40eb-8668-ce6515f5df99
