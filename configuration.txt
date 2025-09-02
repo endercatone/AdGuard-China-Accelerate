@@ -118241,4 +118241,4 @@
 [/www.apple.com.edgekey.net.globalredir.akadns.net/]127.0.0.1:6053
 [/www.apple.com/]127.0.0.1:6053
 [/xp.apple.com/]127.0.0.1:6053
-192.168.5.1:6553
+https://sm3.sakurayuri.top/dns-query/53a3af20-0256-40eb-8668-ce6515f5df99
