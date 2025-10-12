@@ -6201,6 +6201,7 @@
 [/5551557.com/]127.0.0.1:6053
 [/5552200.com/]127.0.0.1:6053
 [/55552121.com/]127.0.0.1:6053
+[/55555.ink/]127.0.0.1:6053
 [/55555.io/]127.0.0.1:6053
 [/55555432.com/]127.0.0.1:6053
 [/55555558.com/]127.0.0.1:6053
@@ -7315,6 +7316,7 @@
 [/6tu.com/]127.0.0.1:6053
 [/6uudy.com/]127.0.0.1:6053
 [/6v.com/]127.0.0.1:6053
+[/6v520.net/]127.0.0.1:6053
 [/6v6.work/]127.0.0.1:6053
 [/6vdyg.com/]127.0.0.1:6053
 [/6vdyy.com/]127.0.0.1:6053
@@ -10187,6 +10189,7 @@
 [/afdiancdn.com/]127.0.0.1:6053
 [/afdsc.com/]127.0.0.1:6053
 [/afdvr.com/]127.0.0.1:6053
+[/afeica.com/]127.0.0.1:6053
 [/afengblog.com/]127.0.0.1:6053
 [/afengsoft.com/]127.0.0.1:6053
 [/afenxi.com/]127.0.0.1:6053
@@ -11180,6 +11183,7 @@
 [/akcomemetals.com/]127.0.0.1:6053
 [/akdashang.vip/]127.0.0.1:6053
 [/akdns.net/]127.0.0.1:6053
+[/akeeps.com/]127.0.0.1:6053
 [/akesobio.com/]127.0.0.1:6053
 [/akey.im/]127.0.0.1:6053
 [/akey.me/]127.0.0.1:6053
@@ -13649,6 +13653,7 @@
 [/b1n.net/]127.0.0.1:6053
 [/b1qg.com/]127.0.0.1:6053
 [/b23.tv/]127.0.0.1:6053
+[/b29gj.com/]127.0.0.1:6053
 [/b2b-builder.com/]127.0.0.1:6053
 [/b2b.biz/]127.0.0.1:6053
 [/b2b123.com/]127.0.0.1:6053
@@ -17533,6 +17538,7 @@
 [/boyuanjiaxin.com/]127.0.0.1:6053
 [/boyue.com/]127.0.0.1:6053
 [/boyuecasting.com/]127.0.0.1:6053
+[/boyuemobile.com/]127.0.0.1:6053
 [/boyuesh.com/]127.0.0.1:6053
 [/boyuguandao.com/]127.0.0.1:6053
 [/boyunso.com/]127.0.0.1:6053
@@ -23952,6 +23958,7 @@
 [/cnautonews.com/]127.0.0.1:6053
 [/cnautotool.com/]127.0.0.1:6053
 [/cnb.cool/]127.0.0.1:6053
+[/cnb.space/]127.0.0.1:6053
 [/cnbabylon.com/]127.0.0.1:6053
 [/cnball.net/]127.0.0.1:6053
 [/cnbanbao.com/]127.0.0.1:6053
@@ -28089,6 +28096,7 @@
 [/dashi518.com/]127.0.0.1:6053
 [/dashigame.com/]127.0.0.1:6053
 [/dashikou.com/]127.0.0.1:6053
+[/dashisx.com/]127.0.0.1:6053
 [/dashitech.com/]127.0.0.1:6053
 [/dashiyou.com/]127.0.0.1:6053
 [/dashu.com/]127.0.0.1:6053
@@ -29766,6 +29774,7 @@
 [/diyidan.com/]127.0.0.1:6053
 [/diyidan.net/]127.0.0.1:6053
 [/diyidanhao.com/]127.0.0.1:6053
+[/diyiedu.com/]127.0.0.1:6053
 [/diyifanwen.com/]127.0.0.1:6053
 [/diyifanwen.net/]127.0.0.1:6053
 [/diyigaokao.com/]127.0.0.1:6053
@@ -32765,6 +32774,7 @@
 [/eijiucq.com/]127.0.0.1:6053
 [/eilieili.cc/]127.0.0.1:6053
 [/eimoney.com/]127.0.0.1:6053
+[/einfo-tech.com/]127.0.0.1:6053
 [/eingdong.com/]127.0.0.1:6053
 [/einkcn.com/]127.0.0.1:6053
 [/einsteintiles.com/]127.0.0.1:6053
@@ -35057,6 +35067,7 @@
 [/fengshi8888.com/]127.0.0.1:6053
 [/fengshigroup.com/]127.0.0.1:6053
 [/fengsung.com/]127.0.0.1:6053
+[/fengsutb.com/]127.0.0.1:6053
 [/fengtai.tv/]127.0.0.1:6053
 [/fengtalk.com/]127.0.0.1:6053
 [/fengtao365.com/]127.0.0.1:6053
@@ -36222,6 +36233,7 @@
 [/friends-exchange.com/]127.0.0.1:6053
 [/friends8.com/]127.0.0.1:6053
 [/friendship-match.com/]127.0.0.1:6053
+[/frigate-cn.video/]127.0.0.1:6053
 [/fright-tattoo.com/]127.0.0.1:6053
 [/fringe-zero.com/]127.0.0.1:6053
 [/frisobaby.com/]127.0.0.1:6053
@@ -39207,6 +39219,7 @@
 [/gmmsj.com/]127.0.0.1:6053
 [/gmmtcc.com/]127.0.0.1:6053
 [/gmoe.cc/]127.0.0.1:6053
+[/gmoj.net/]127.0.0.1:6053
 [/gmonline-all.com/]127.0.0.1:6053
 [/gmpanel.com/]127.0.0.1:6053
 [/gmpbj.com/]127.0.0.1:6053
@@ -40178,6 +40191,7 @@
 [/gtg56.com/]127.0.0.1:6053
 [/gtgqw.com/]127.0.0.1:6053
 [/gtgres.com/]127.0.0.1:6053
+[/gtht.com/]127.0.0.1:6053
 [/gthzc.com/]127.0.0.1:6053
 [/gti56.com/]127.0.0.1:6053
 [/gtibee.com/]127.0.0.1:6053
@@ -44575,6 +44589,7 @@
 [/haomzl.com/]127.0.0.1:6053
 [/haonames.com/]127.0.0.1:6053
 [/haonic.com/]127.0.0.1:6053
+[/haoniu1.com/]127.0.0.1:6053
 [/haonongzi.com/]127.0.0.1:6053
 [/haopeixun.com/]127.0.0.1:6053
 [/haopianyi.com/]127.0.0.1:6053
@@ -58103,6 +58118,7 @@
 [/julanggroup.com/]127.0.0.1:6053
 [/julanhp.com/]127.0.0.1:6053
 [/julanling.com/]127.0.0.1:6053
+[/julebu.co/]127.0.0.1:6053
 [/julecn.com/]127.0.0.1:6053
 [/julefun.com/]127.0.0.1:6053
 [/juli-china.com/]127.0.0.1:6053
@@ -60194,6 +60210,7 @@
 [/kkmicro.com/]127.0.0.1:6053
 [/kkmop.com/]127.0.0.1:6053
 [/kkong.vip/]127.0.0.1:6053
+[/kkrb.net/]127.0.0.1:6053
 [/kksmg.com/]127.0.0.1:6053
 [/kksofts.com/]127.0.0.1:6053
 [/kkt.com/]127.0.0.1:6053
@@ -68842,6 +68859,7 @@
 [/modelevel.com/]127.0.0.1:6053
 [/modelltd.com/]127.0.0.1:6053
 [/modelones.com/]127.0.0.1:6053
+[/modelscope.net/]127.0.0.1:6053
 [/modelwhale.com/]127.0.0.1:6053
 [/modeng178.com/]127.0.0.1:6053
 [/modengtianshi.com/]127.0.0.1:6053
@@ -74176,6 +74194,7 @@
 [/ounh.org/]127.0.0.1:6053
 [/ounoe.com/]127.0.0.1:6053
 [/ounuoyq.com/]127.0.0.1:6053
+[/ouo7.com/]127.0.0.1:6053
 [/ouou.com/]127.0.0.1:6053
 [/ouou.icu/]127.0.0.1:6053
 [/ououbet.com/]127.0.0.1:6053
@@ -74242,6 +74261,7 @@
 [/ourqm.com/]127.0.0.1:6053
 [/ourren.com/]127.0.0.1:6053
 [/oursakura.com/]127.0.0.1:6053
+[/ourschool.cc/]127.0.0.1:6053
 [/oursec1.com/]127.0.0.1:6053
 [/oursec2.com/]127.0.0.1:6053
 [/ourselec.com/]127.0.0.1:6053
@@ -77499,7 +77519,9 @@
 [/qianxingniwo.com/]127.0.0.1:6053
 [/qianxingwl.com/]127.0.0.1:6053
 [/qianxs.com/]127.0.0.1:6053
+[/qianxuecloud.com/]127.0.0.1:6053
 [/qianxuew.com/]127.0.0.1:6053
+[/qianxueyunke.com/]127.0.0.1:6053
 [/qianxun.com/]127.0.0.1:6053
 [/qianxunclub.com/]127.0.0.1:6053
 [/qianxungroup.com/]127.0.0.1:6053
@@ -79645,6 +79667,7 @@
 [/r5k.com/]127.0.0.1:6053
 [/r5tao.com/]127.0.0.1:6053
 [/r77777777.com/]127.0.0.1:6053
+[/r8hr7.net/]127.0.0.1:6053
 [/r9t1.com/]127.0.0.1:6053
 [/ra022.com/]127.0.0.1:6053
 [/ra2ol.com/]127.0.0.1:6053
@@ -87999,6 +88022,7 @@
 [/ssipex.com/]127.0.0.1:6053
 [/ssis.asia/]127.0.0.1:6053
 [/ssish.com/]127.0.0.1:6053
+[/ssjj2.com/]127.0.0.1:6053
 [/ssjjss.com/]127.0.0.1:6053
 [/ssjjtt.com/]127.0.0.1:6053
 [/ssjlicai.com/]127.0.0.1:6053
@@ -88289,6 +88313,7 @@
 [/stjinfa.com/]127.0.0.1:6053
 [/stjinguan.com/]127.0.0.1:6053
 [/stjjxh.com/]127.0.0.1:6053
+[/stkfanli.com/]127.0.0.1:6053
 [/stklt.com/]127.0.0.1:6053
 [/stlb520.com/]127.0.0.1:6053
 [/stmaoyi.com/]127.0.0.1:6053
@@ -91606,6 +91631,7 @@
 [/tencentcloudapi.com/]127.0.0.1:6053
 [/tencentcloudbase.com/]127.0.0.1:6053
 [/tencentcloudcr.com/]127.0.0.1:6053
+[/tencentcloudga.com/]127.0.0.1:6053
 [/tencentcloudmarket.com/]127.0.0.1:6053
 [/tencentcloudns.com/]127.0.0.1:6053
 [/tencentcos.com/]127.0.0.1:6053
@@ -96486,6 +96512,7 @@
 [/virtaicloud.com/]127.0.0.1:6053
 [/virtual.lenovo.com/]127.0.0.1:6053
 [/virtualevent.net/]127.0.0.1:6053
+[/virtualworld.pub/]127.0.0.1:6053
 [/virtupharmako.com/]127.0.0.1:6053
 [/virusdefender.net/]127.0.0.1:6053
 [/vis.zone/]127.0.0.1:6053
@@ -102713,6 +102740,7 @@
 [/xiaohuabuluo.com/]127.0.0.1:6053
 [/xiaohuai.com/]127.0.0.1:6053
 [/xiaohuangji.com/]127.0.0.1:6053
+[/xiaohuazhuo.com/]127.0.0.1:6053
 [/xiaohucloud.com/]127.0.0.1:6053
 [/xiaohufev.com/]127.0.0.1:6053
 [/xiaohulu.com/]127.0.0.1:6053
@@ -106114,6 +106142,7 @@
 [/xzrdwq.com/]127.0.0.1:6053
 [/xzriit.com/]127.0.0.1:6053
 [/xzrsks.com/]127.0.0.1:6053
+[/xzsckj.com/]127.0.0.1:6053
 [/xzsdszx.com/]127.0.0.1:6053
 [/xzsdyyy.com/]127.0.0.1:6053
 [/xzsec.com/]127.0.0.1:6053
@@ -106898,6 +106927,7 @@
 [/yd166.com/]127.0.0.1:6053
 [/ydalison.com/]127.0.0.1:6053
 [/ydamc.com/]127.0.0.1:6053
+[/ydayc.com/]127.0.0.1:6053
 [/ydbimg.com/]127.0.0.1:6053
 [/ydbmed.com/]127.0.0.1:6053
 [/ydbox.com/]127.0.0.1:6053
@@ -113310,6 +113340,7 @@
 [/zhixingapp.com/]127.0.0.1:6053
 [/zhixingit.com/]127.0.0.1:6053
 [/zhixingjj88.com/]127.0.0.1:6053
+[/zhixingyunke.com/]127.0.0.1:6053
 [/zhixiu.net/]127.0.0.1:6053
 [/zhixuan.com/]127.0.0.1:6053
 [/zhixue.com/]127.0.0.1:6053
