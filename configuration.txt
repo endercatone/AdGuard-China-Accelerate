@@ -32309,6 +32309,7 @@
 [/dubairen.com/]127.0.0.1:6053
 [/dubao123.com/]127.0.0.1:6053
 [/dubbing.tech/]127.0.0.1:6053
+[/dubbingx.com/]127.0.0.1:6053
 [/dubbo.io/]127.0.0.1:6053
 [/duble.live/]127.0.0.1:6053
 [/dubola.com/]127.0.0.1:6053
@@ -68903,6 +68904,7 @@
 [/miaocode.com/]127.0.0.1:6053
 [/miaodiyun.com/]127.0.0.1:6053
 [/miaodongbar.com/]127.0.0.1:6053
+[/miaodongshenghuo.com/]127.0.0.1:6053
 [/miaogongzi.cc/]127.0.0.1:6053
 [/miaogongzi.net/]127.0.0.1:6053
 [/miaohuiyanyi.com/]127.0.0.1:6053
@@ -79934,6 +79936,7 @@
 [/quaspa.com/]127.0.0.1:6053
 [/quazero.com/]127.0.0.1:6053
 [/quba360.com/]127.0.0.1:6053
+[/qubang.cc/]127.0.0.1:6053
 [/qubaobei.com/]127.0.0.1:6053
 [/qubiankeji.com/]127.0.0.1:6053
 [/qucai.com/]127.0.0.1:6053
@@ -95338,6 +95341,7 @@
 [/tsg-online.net/]127.0.0.1:6053
 [/tsggx.com/]127.0.0.1:6053
 [/tsgks.com/]127.0.0.1:6053
+[/tsgyun.com/]127.0.0.1:6053
 [/tshaisen.com/]127.0.0.1:6053
 [/tshe.com/]127.0.0.1:6053
 [/tshe.me/]127.0.0.1:6053
@@ -110427,6 +110431,7 @@
 [/yooek.com/]127.0.0.1:6053
 [/yoofh.com/]127.0.0.1:6053
 [/yoogene.com/]127.0.0.1:6053
+[/yoohe.net/]127.0.0.1:6053
 [/yoohouse.com/]127.0.0.1:6053
 [/yoojia.com/]127.0.0.1:6053
 [/yoojing.com/]127.0.0.1:6053
