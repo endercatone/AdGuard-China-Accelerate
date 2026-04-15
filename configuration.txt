@@ -11762,6 +11762,7 @@
 [/ailvxing.com/]127.0.0.1:6053
 [/aim-ec.com/]127.0.0.1:6053
 [/aimaker.space/]127.0.0.1:6053
+[/aimap.com/]127.0.0.1:6053
 [/aimatech.com/]127.0.0.1:6053
 [/aimatrix.ai/]127.0.0.1:6053
 [/aimcx.com/]127.0.0.1:6053
@@ -17422,6 +17423,7 @@
 [/bjfqy.com/]127.0.0.1:6053
 [/bjfriendshiphotel.com/]127.0.0.1:6053
 [/bjfsali.com/]127.0.0.1:6053
+[/bjftfy.com/]127.0.0.1:6053
 [/bjfzst.com/]127.0.0.1:6053
 [/bjgas.com/]127.0.0.1:6053
 [/bjgasgh.com/]127.0.0.1:6053
@@ -21321,6 +21323,7 @@
 [/cetgps.com/]127.0.0.1:6053
 [/cethik.com/]127.0.0.1:6053
 [/cetkmh.com/]127.0.0.1:6053
+[/cetsteam.com/]127.0.0.1:6053
 [/cetzig.com/]127.0.0.1:6053
 [/ceultimate.com/]127.0.0.1:6053
 [/ceve-market.org/]127.0.0.1:6053
@@ -34994,6 +34997,7 @@
 [/evpartner.com/]127.0.0.1:6053
 [/evpowergroup.com/]127.0.0.1:6053
 [/evtcn.com/]127.0.0.1:6053
+[/evtrust.com/]127.0.0.1:6053
 [/evyy.net/]127.0.0.1:6053
 [/evzhidao.com/]127.0.0.1:6053
 [/evznl.org/]127.0.0.1:6053
@@ -36946,6 +36950,7 @@
 [/fk100.com/]127.0.0.1:6053
 [/fkask.net/]127.0.0.1:6053
 [/fkblog.org/]127.0.0.1:6053
+[/fkbuff.com/]127.0.0.1:6053
 [/fkcaijing.com/]127.0.0.1:6053
 [/fkdex.com/]127.0.0.1:6053
 [/fkdmg.com/]127.0.0.1:6053
@@ -48033,6 +48038,7 @@
 [/hivictor.net/]127.0.0.1:6053
 [/hiwafer.com/]127.0.0.1:6053
 [/hiwaysemi.com/]127.0.0.1:6053
+[/hiwayslaw.com/]127.0.0.1:6053
 [/hiwbb.com/]127.0.0.1:6053
 [/hiwechats.com/]127.0.0.1:6053
 [/hiweixiu.com/]127.0.0.1:6053
@@ -59754,6 +59760,7 @@
 [/jxxdxy.com/]127.0.0.1:6053
 [/jxxhdn.com/]127.0.0.1:6053
 [/jxxhsd.com/]127.0.0.1:6053
+[/jxxinzhe.com/]127.0.0.1:6053
 [/jxxnyqc.com/]127.0.0.1:6053
 [/jxxs.net/]127.0.0.1:6053
 [/jxycqy.com/]127.0.0.1:6053
@@ -92846,6 +92853,7 @@
 [/tencentcloudclub.com/]127.0.0.1:6053
 [/tencentcloudcore.com/]127.0.0.1:6053
 [/tencentcloudcr.com/]127.0.0.1:6053
+[/tencentcloudcs.com/]127.0.0.1:6053
 [/tencentcloudga.com/]127.0.0.1:6053
 [/tencentcloudga001.com/]127.0.0.1:6053
 [/tencentcloudga001.net/]127.0.0.1:6053
