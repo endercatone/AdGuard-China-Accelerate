@@ -4521,6 +4521,7 @@
 [/366300.com/]127.0.0.1:6053
 [/366666.net/]127.0.0.1:6053
 [/36683.com/]127.0.0.1:6053
+[/366999.com/]127.0.0.1:6053
 [/3669yx.com/]127.0.0.1:6053
 [/366club.com/]127.0.0.1:6053
 [/366ec.com/]127.0.0.1:6053
@@ -7055,6 +7056,7 @@
 [/5918656.com/]127.0.0.1:6053
 [/5918dyw.com/]127.0.0.1:6053
 [/591918.com/]127.0.0.1:6053
+[/591adb.com/]127.0.0.1:6053
 [/591con.com/]127.0.0.1:6053
 [/591hx.com/]127.0.0.1:6053
 [/591master.com/]127.0.0.1:6053
@@ -29481,6 +29483,7 @@
 [/dayitea.com/]127.0.0.1:6053
 [/dayiwater.com/]127.0.0.1:6053
 [/dayong.name/]127.0.0.1:6053
+[/dayonglaw.com/]127.0.0.1:6053
 [/dayoo.com/]127.0.0.1:6053
 [/dayrui.com/]127.0.0.1:6053
 [/dayscamera.com/]127.0.0.1:6053
@@ -31862,6 +31865,7 @@
 [/douban.com/]127.0.0.1:6053
 [/douban.fm/]127.0.0.1:6053
 [/doubanio.com/]127.0.0.1:6053
+[/doubao-dev.com/]127.0.0.1:6053
 [/doubao.com/]127.0.0.1:6053
 [/doubaocdn.com/]127.0.0.1:6053
 [/doubaozhidao.com/]127.0.0.1:6053
@@ -34014,6 +34018,7 @@
 [/ehengjian.com/]127.0.0.1:6053
 [/eheren.com/]127.0.0.1:6053
 [/ehetech.com/]127.0.0.1:6053
+[/ehewen.com/]127.0.0.1:6053
 [/eheyin.com/]127.0.0.1:6053
 [/ehijoy.com/]127.0.0.1:6053
 [/ehinvest.hk/]127.0.0.1:6053
@@ -37184,6 +37189,7 @@
 [/flyhand.com/]127.0.0.1:6053
 [/flyingeffect.com/]127.0.0.1:6053
 [/flyingpigeon1936.com/]127.0.0.1:6053
+[/flylinking.com/]127.0.0.1:6053
 [/flyme.com/]127.0.0.1:6053
 [/flyme.net/]127.0.0.1:6053
 [/flymeauto.com/]127.0.0.1:6053
@@ -38932,6 +38938,7 @@
 [/gavindesign.com/]127.0.0.1:6053
 [/gavinzh.com/]127.0.0.1:6053
 [/gaxgame.com/]127.0.0.1:6053
+[/gaxify.com/]127.0.0.1:6053
 [/gaxrmyy.com/]127.0.0.1:6053
 [/gayzyhh.com/]127.0.0.1:6053
 [/gaze.run/]127.0.0.1:6053
@@ -48023,6 +48030,7 @@
 [/hiosu.com/]127.0.0.1:6053
 [/hioug.com/]127.0.0.1:6053
 [/hiparking.com/]127.0.0.1:6053
+[/hipc123.com/]127.0.0.1:6053
 [/hipcam.net/]127.0.0.1:6053
 [/hipcapi.com/]127.0.0.1:6053
 [/hiphi.com/]127.0.0.1:6053
@@ -50765,6 +50773,7 @@
 [/huilunbio.com/]127.0.0.1:6053
 [/huilv8.com/]127.0.0.1:6053
 [/huilvbiao.com/]127.0.0.1:6053
+[/huilvhuansuanqi.com/]127.0.0.1:6053
 [/huilvwang.com/]127.0.0.1:6053
 [/huilvyankuang.com/]127.0.0.1:6053
 [/huilw.com/]127.0.0.1:6053
@@ -69216,6 +69225,7 @@
 [/mingjignfang.com/]127.0.0.1:6053
 [/mingjinglu.com/]127.0.0.1:6053
 [/mingjiudu.com/]127.0.0.1:6053
+[/mingjun2008.com/]127.0.0.1:6053
 [/mingjuyoupin.com/]127.0.0.1:6053
 [/mingkj.com/]127.0.0.1:6053
 [/minglian.com/]127.0.0.1:6053
@@ -75269,6 +75279,7 @@
 [/ovxe.com/]127.0.0.1:6053
 [/owalle.com/]127.0.0.1:6053
 [/oway.mobi/]127.0.0.1:6053
+[/owdct.com/]127.0.0.1:6053
 [/owecn.com/]127.0.0.1:6053
 [/oweidata.com/]127.0.0.1:6053
 [/oweis-tech.com/]127.0.0.1:6053
@@ -80424,6 +80435,7 @@
 [/qytranslation.com/]127.0.0.1:6053
 [/qytst.com/]127.0.0.1:6053
 [/qytxhy.com/]127.0.0.1:6053
+[/qyue.org/]127.0.0.1:6053
 [/qyunapp.com/]127.0.0.1:6053
 [/qyuner.com/]127.0.0.1:6053
 [/qyuns.net/]127.0.0.1:6053
@@ -82717,6 +82729,7 @@
 [/sansitech.com/]127.0.0.1:6053
 [/sansky.net/]127.0.0.1:6053
 [/santaihu.com/]127.0.0.1:6053
+[/santainews.com/]127.0.0.1:6053
 [/santanjob.com/]127.0.0.1:6053
 [/santelvxing.com/]127.0.0.1:6053
 [/santezjy.com/]127.0.0.1:6053
@@ -89915,6 +89928,7 @@
 [/suyangroup.com/]127.0.0.1:6053
 [/suyuantuliao.com/]127.0.0.1:6053
 [/suyuening.com/]127.0.0.1:6053
+[/suyueyun.com/]127.0.0.1:6053
 [/suyugame.com/]127.0.0.1:6053
 [/suyujoy.com/]127.0.0.1:6053
 [/suyun.net/]127.0.0.1:6053
@@ -94239,6 +94253,7 @@
 [/toec-iot.com/]127.0.0.1:6053
 [/toec.com/]127.0.0.1:6053
 [/toecsec.com/]127.0.0.1:6053
+[/toewin.com/]127.0.0.1:6053
 [/tofeat.com/]127.0.0.1:6053
 [/tofengmi.com/]127.0.0.1:6053
 [/tofflon.com/]127.0.0.1:6053
@@ -102218,6 +102233,7 @@
 [/ww2bbs.net/]127.0.0.1:6053
 [/ww8899.com/]127.0.0.1:6053
 [/wware.org/]127.0.0.1:6053
+[/wwchicun.com/]127.0.0.1:6053
 [/wwejds.com/]127.0.0.1:6053
 [/wwenglish.com/]127.0.0.1:6053
 [/wwenglish.org/]127.0.0.1:6053
