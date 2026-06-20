@@ -13890,6 +13890,7 @@
 [/azuiblc.com/]127.0.0.1:6053
 [/azure-wave.com/]127.0.0.1:6053
 [/azure.cc/]127.0.0.1:6053
+[/azureflame.cloud/]127.0.0.1:6053
 [/azureflying.com/]127.0.0.1:6053
 [/azuremigrate.download.prss.microsoft.com/]127.0.0.1:6053
 [/azuremigratetest.download.prss.microsoft.com/]127.0.0.1:6053
@@ -16478,6 +16479,7 @@
 [/bjartmuseum.com/]127.0.0.1:6053
 [/bjatv.com/]127.0.0.1:6053
 [/bjbaidianfeng.com/]127.0.0.1:6053
+[/bjbaifan.com/]127.0.0.1:6053
 [/bjbalb.com/]127.0.0.1:6053
 [/bjbaodao.net/]127.0.0.1:6053
 [/bjbb.com/]127.0.0.1:6053
@@ -18915,6 +18917,7 @@
 [/cangfengzhe.com/]127.0.0.1:6053
 [/canghaiip.com/]127.0.0.1:6053
 [/canghaimachine.com/]127.0.0.1:6053
+[/cangjggame.com/]127.0.0.1:6053
 [/canglanghospital.com/]127.0.0.1:6053
 [/cangmang.xyz/]127.0.0.1:6053
 [/cangoonline.com/]127.0.0.1:6053
@@ -20535,6 +20538,7 @@
 [/chachengji.com/]127.0.0.1:6053
 [/chacihai.com/]127.0.0.1:6053
 [/chacuo.net/]127.0.0.1:6053
+[/chadaodao.com/]127.0.0.1:6053
 [/chadianhua.net/]127.0.0.1:6053
 [/chadoc.com/]127.0.0.1:6053
 [/chaej.com/]127.0.0.1:6053
@@ -34447,6 +34451,7 @@
 [/feiersmart.com/]127.0.0.1:6053
 [/feifandesign.com/]127.0.0.1:6053
 [/feifanindustry.com/]127.0.0.1:6053
+[/feifanmi.com/]127.0.0.1:6053
 [/feifantxt.com/]127.0.0.1:6053
 [/feifantxt.net/]127.0.0.1:6053
 [/feifdx.com/]127.0.0.1:6053
@@ -75115,6 +75120,7 @@
 [/qingnianlvxing.com/]127.0.0.1:6053
 [/qingniantuzhai.com/]127.0.0.1:6053
 [/qingnianwang.com/]127.0.0.1:6053
+[/qingning88.com/]127.0.0.1:6053
 [/qingpanduola.com/]127.0.0.1:6053
 [/qingpin.vip/]127.0.0.1:6053
 [/qingping.co/]127.0.0.1:6053
@@ -92117,6 +92123,7 @@
 [/uniow.com/]127.0.0.1:6053
 [/unipack-tech.com/]127.0.0.1:6053
 [/uniproud.com/]127.0.0.1:6053
+[/unisapps.com/]127.0.0.1:6053
 [/uniscope.com/]127.0.0.1:6053
 [/unisdigital.com/]127.0.0.1:6053
 [/unisedu.com/]127.0.0.1:6053
@@ -112132,6 +112139,7 @@
 [/itunes-apple.com.akadns.net/]127.0.0.1:6053
 [/itunes.apple.com/]127.0.0.1:6053
 [/itunesconnect.apple.com/]127.0.0.1:6053
+[/mensura.cdn-apple.com/]127.0.0.1:6053
 [/mesu-cdn.apple.com.akadns.net/]127.0.0.1:6053
 [/mesu-china.apple.com.akadns.net/]127.0.0.1:6053
 [/mesu.apple.com/]127.0.0.1:6053
