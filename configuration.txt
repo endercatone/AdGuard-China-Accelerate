@@ -13900,6 +13900,7 @@
 [/b-k-automation.com/]127.0.0.1:6053
 [/b-raymedia.com/]127.0.0.1:6053
 [/b.biz/]127.0.0.1:6053
+[/b.c2r.ts.cdn.office.net/]127.0.0.1:6053
 [/b01.net/]127.0.0.1:6053
 [/b02f0d7f3745ba7c.com/]127.0.0.1:6053
 [/b041e427810281.beer/]127.0.0.1:6053
@@ -33657,6 +33658,7 @@
 [/f-insight.com/]127.0.0.1:6053
 [/f-stack.org/]127.0.0.1:6053
 [/f.biz/]127.0.0.1:6053
+[/f.c2r.ts.cdn.office.net/]127.0.0.1:6053
 [/f.cx/]127.0.0.1:6053
 [/f008.com/]127.0.0.1:6053
 [/f015dfc4510292.beer/]127.0.0.1:6053
@@ -81098,6 +81100,7 @@
 [/sheketiandi.com/]127.0.0.1:6053
 [/shekou.com/]127.0.0.1:6053
 [/shelive.net/]127.0.0.1:6053
+[/shell.cdn.office.net/]127.0.0.1:6053
 [/shellpub.com/]127.0.0.1:6053
 [/shellsec.com/]127.0.0.1:6053
 [/shelter-china.com/]127.0.0.1:6053
@@ -84918,6 +84921,7 @@
 [/staticfile.org/]127.0.0.1:6053
 [/statickksmg.com/]127.0.0.1:6053
 [/statics.cc/]127.0.0.1:6053
+[/statics.teams.cdn.office.net/]127.0.0.1:6053
 [/staticsdd.com/]127.0.0.1:6053
 [/staticsoe.com/]127.0.0.1:6053
 [/staticsoem.com/]127.0.0.1:6053
@@ -85631,6 +85635,7 @@
 [/surely.cool/]127.0.0.1:6053
 [/surerp.com/]127.0.0.1:6053
 [/surface.download.prss.microsoft.com/]127.0.0.1:6053
+[/surface.downloads.prss.microsoft.com/]127.0.0.1:6053
 [/surfacetreatmentgroup.com/]127.0.0.1:6053
 [/surfacetreatmenttechnology.com/]127.0.0.1:6053
 [/surfcg.com/]127.0.0.1:6053
