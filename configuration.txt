@@ -64,6 +64,7 @@
 [/gsp4-cn.ls.apple.com/]127.0.0.1:6053
 [/gsp5-cn.ls.apple.com/]127.0.0.1:6053
 [/gsp85-cn-ssl.ls.apple.com/]127.0.0.1:6053
+[/gspe11-2-cn-ssl.ls.apple.com/]127.0.0.1:6053
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]127.0.0.1:6053
 [/gspe19-2-cn-ssl.ls.apple.com/]127.0.0.1:6053
 [/gspe19-cn-ssl.ls.apple.com/]127.0.0.1:6053
@@ -9475,6 +9476,7 @@
 [/988848a9d1013.beer/]127.0.0.1:6053
 [/988878.com/]127.0.0.1:6053
 [/98892.com/]127.0.0.1:6053
+[/988dns.com/]127.0.0.1:6053
 [/988sl.com/]127.0.0.1:6053
 [/9891.com/]127.0.0.1:6053
 [/9891760ee2389285.com/]127.0.0.1:6053
@@ -9963,6 +9965,7 @@
 [/aaawz.cc/]127.0.0.1:6053
 [/aaayu.com/]127.0.0.1:6053
 [/aaayun.com/]127.0.0.1:6053
+[/aabb.com/]127.0.0.1:6053
 [/aabqn.com/]127.0.0.1:6053
 [/aac3442de07869c0.com/]127.0.0.1:6053
 [/aacoptics.com/]127.0.0.1:6053
@@ -12684,6 +12687,7 @@
 [/api-m.com/]127.0.0.1:6053
 [/api-vod-qcloud.com/]127.0.0.1:6053
 [/api.anythinktech.com/]127.0.0.1:6053
+[/api.blipsandchitz.me/]127.0.0.1:6053
 [/api.cnno1.uds.lenovo.com/]127.0.0.1:6053
 [/api.djiservice.org/]127.0.0.1:6053
 [/api.euwe1.uds.lenovo.com/]127.0.0.1:6053
@@ -29704,6 +29708,7 @@
 [/dnake-park.com/]127.0.0.1:6053
 [/dnbbn.com/]127.0.0.1:6053
 [/dnbbs.com/]127.0.0.1:6053
+[/dnbiz.com/]127.0.0.1:6053
 [/dncable.com/]127.0.0.1:6053
 [/dndc.cloud/]127.0.0.1:6053
 [/dnettvbox.com/]127.0.0.1:6053
@@ -63679,6 +63684,7 @@
 [/madajiefood.com/]127.0.0.1:6053
 [/madaomall.com/]127.0.0.1:6053
 [/madboxi.com/]127.0.0.1:6053
+[/made-in-china.com/]127.0.0.1:6053
 [/madefuns.com/]127.0.0.1:6053
 [/madeinchinastone.com/]127.0.0.1:6053
 [/madewei.com/]127.0.0.1:6053
@@ -65408,6 +65414,7 @@
 [/microyan.com/]127.0.0.1:6053
 [/microzl.com/]127.0.0.1:6053
 [/microzuji.com/]127.0.0.1:6053
+[/micstatic.com/]127.0.0.1:6053
 [/mictormedical.com/]127.0.0.1:6053
 [/micu.hk/]127.0.0.1:6053
 [/micun.com/]127.0.0.1:6053
@@ -70909,6 +70916,7 @@
 [/openatom.club/]127.0.0.1:6053
 [/openbayes.com/]127.0.0.1:6053
 [/openbcs.com/]127.0.0.1:6053
+[/openbitfun.com/]127.0.0.1:6053
 [/opencas.org/]127.0.0.1:6053
 [/opencitybrain.org/]127.0.0.1:6053
 [/opencloudgpt.online/]127.0.0.1:6053
