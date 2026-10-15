@@ -372,7 +372,6 @@
 [/01yun.com/]127.0.0.1:6053
 [/01zenith.net/]127.0.0.1:6053
 [/01zhuanche.com/]127.0.0.1:6053
-[/01zk.com/]127.0.0.1:6053
 [/020.com/]127.0.0.1:6053
 [/020.net/]127.0.0.1:6053
 [/020.xn--5tzm5g/]127.0.0.1:6053
@@ -4840,7 +4839,6 @@
 [/46d7940171014.beer/]127.0.0.1:6053
 [/46eadc71881fb97a.com/]127.0.0.1:6053
 [/46mlsv.com/]127.0.0.1:6053
-[/46ps.com/]127.0.0.1:6053
 [/46xs.com/]127.0.0.1:6053
 [/4714da8871019.beer/]127.0.0.1:6053
 [/471f94eab9784273.com/]127.0.0.1:6053
@@ -6819,7 +6817,6 @@
 [/6188cnc.com/]127.0.0.1:6053
 [/618bg.com/]127.0.0.1:6053
 [/618cj.com/]127.0.0.1:6053
-[/618day.com/]127.0.0.1:6053
 [/618ky.com/]127.0.0.1:6053
 [/618tech.com/]127.0.0.1:6053
 [/618waihui.com/]127.0.0.1:6053
@@ -7141,7 +7138,6 @@
 [/688dns.com/]127.0.0.1:6053
 [/688wz.net/]127.0.0.1:6053
 [/68955.com/]127.0.0.1:6053
-[/68978.net/]127.0.0.1:6053
 [/68apk.com/]127.0.0.1:6053
 [/68bbq.com/]127.0.0.1:6053
 [/68china.net/]127.0.0.1:6053
@@ -7337,7 +7333,6 @@
 [/701.com/]127.0.0.1:6053
 [/703804.com/]127.0.0.1:6053
 [/70524.com/]127.0.0.1:6053
-[/706net.com/]127.0.0.1:6053
 [/707.com/]127.0.0.1:6053
 [/707598.xyz/]127.0.0.1:6053
 [/707e518c610291.beer/]127.0.0.1:6053
@@ -8076,7 +8071,6 @@
 [/83666.com/]127.0.0.1:6053
 [/83692.com/]127.0.0.1:6053
 [/83753751.com/]127.0.0.1:6053
-[/8379888.com/]127.0.0.1:6053
 [/8383.vip/]127.0.0.1:6053
 [/838413.com/]127.0.0.1:6053
 [/838dz.com/]127.0.0.1:6053
@@ -9839,7 +9833,6 @@
 [/acingame.com/]127.0.0.1:6053
 [/acirclea.com/]127.0.0.1:6053
 [/acirno.com/]127.0.0.1:6053
-[/acjw.net/]127.0.0.1:6053
 [/acloud.com/]127.0.0.1:6053
 [/acloudbaas.com/]127.0.0.1:6053
 [/acloudrender.com/]127.0.0.1:6053
@@ -13341,7 +13334,6 @@
 [/awx1.com/]127.0.0.1:6053
 [/awyerwu.com/]127.0.0.1:6053
 [/awyx.xyz/]127.0.0.1:6053
-[/ax196.com/]127.0.0.1:6053
 #[/ax1x.com/]127.0.0.1:6053 # Disabled: https://github.com/felixonmars/dnsmasq-china-list/issues/391
 [/ax2nc4.ren/]127.0.0.1:6053
 [/axatp.com/]127.0.0.1:6053
@@ -14480,7 +14472,6 @@
 [/bbfstore.com/]127.0.0.1:6053
 [/bbfytsn.com/]127.0.0.1:6053
 [/bbgdex.com/]127.0.0.1:6053
-[/bbgsite.com/]127.0.0.1:6053
 [/bbgstatic.com/]127.0.0.1:6053
 [/bbguangcai.com/]127.0.0.1:6053
 [/bbhou.com/]127.0.0.1:6053
@@ -17332,7 +17323,6 @@
 [/bsccdn.com/]127.0.0.1:6053
 [/bsccdn.net/]127.0.0.1:6053
 [/bscdns.com/]127.0.0.1:6053
-[/bscdnweb.com/]127.0.0.1:6053
 [/bscea.org/]127.0.0.1:6053
 [/bscedge.com/]127.0.0.1:6053
 [/bscgslb.com/]127.0.0.1:6053
@@ -19328,7 +19318,6 @@
 [/cdn-v.com/]127.0.0.1:6053
 [/cdn.fun/]127.0.0.1:6053
 [/cdn.me/]127.0.0.1:6053
-[/cdn.samsung.com/]127.0.0.1:6053
 [/cdn.shanghai.nyu.edu/]127.0.0.1:6053
 [/cdn.show/]127.0.0.1:6053
 [/cdn.vin/]127.0.0.1:6053
@@ -19942,7 +19931,6 @@
 [/cghhospital.org/]127.0.0.1:6053
 [/cghospital.com/]127.0.0.1:6053
 [/cgicop.com/]127.0.0.1:6053
-[/cgiumuo.xyz/]127.0.0.1:6053
 [/cgivz.com/]127.0.0.1:6053
 [/cgjoy.com/]127.0.0.1:6053
 [/cgjoy.net/]127.0.0.1:6053
@@ -23526,7 +23514,6 @@
 [/cnfeol.net/]127.0.0.1:6053
 [/cnfg.cc/]127.0.0.1:6053
 [/cnfia.com/]127.0.0.1:6053
-[/cnfiberhome.com/]127.0.0.1:6053
 [/cnfin.com/]127.0.0.1:6053
 [/cnfina.com/]127.0.0.1:6053
 [/cnfirst.net/]127.0.0.1:6053
@@ -24577,6 +24564,7 @@
 [/coremakingsolutions.com/]127.0.0.1:6053
 [/corerain.com/]127.0.0.1:6053
 [/corex-design.com/]127.0.0.1:6053
+[/corexpertdata.com/]127.0.0.1:6053
 [/coreyun.net/]127.0.0.1:6053
 [/corgichina.com/]127.0.0.1:6053
 [/corlercar888.com/]127.0.0.1:6053
@@ -26838,7 +26826,6 @@
 [/dahetest.com/]127.0.0.1:6053
 [/dahhxxttxs.com/]127.0.0.1:6053
 [/dahongba.net/]127.0.0.1:6053
-[/dahongtec.com/]127.0.0.1:6053
 [/dahongtool.com/]127.0.0.1:6053
 [/dahouduan.com/]127.0.0.1:6053
 [/dahua-cpa.com/]127.0.0.1:6053
@@ -29765,7 +29752,6 @@
 [/downke.com/]127.0.0.1:6053
 [/downkr.com/]127.0.0.1:6053
 [/downkuai.com/]127.0.0.1:6053
-[/download.microsoft.com/]127.0.0.1:6053
 [/download.visualstudio.microsoft.com/]127.0.0.1:6053
 [/download.windowsupdate.com/]127.0.0.1:6053
 [/downloads.ltd/]127.0.0.1:6053
@@ -33106,7 +33092,6 @@
 [/faminuo.com/]127.0.0.1:6053
 [/famobiotech.com/]127.0.0.1:6053
 [/famousoffice.com/]127.0.0.1:6053
-[/famoustone.com/]127.0.0.1:6053
 [/famulei.com/]127.0.0.1:6053
 [/fan-lun.com/]127.0.0.1:6053
 [/fan-md.com/]127.0.0.1:6053
@@ -33540,7 +33525,6 @@
 [/fcnes.com/]127.0.0.1:6053
 [/fcnode.net/]127.0.0.1:6053
 [/fcpawn.com/]127.0.0.1:6053
-[/fcpiao.com/]127.0.0.1:6053
 [/fcpowerup.com/]127.0.0.1:6053
 [/fcqjc.com/]127.0.0.1:6053
 [/fcrc114.com/]127.0.0.1:6053
@@ -34537,7 +34521,6 @@
 [/flmgr.net/]127.0.0.1:6053
 [/floatcamellia.com/]127.0.0.1:6053
 [/floatingislandapps.com/]127.0.0.1:6053
-[/floatmaze.com/]127.0.0.1:6053
 [/flockypet.com/]127.0.0.1:6053
 [/flomoapp.com/]127.0.0.1:6053
 [/floorb2b.com/]127.0.0.1:6053
@@ -37132,7 +37115,6 @@
 [/gewu.vc/]127.0.0.1:6053
 [/gewuer.com/]127.0.0.1:6053
 [/gewuzhixiang.com/]127.0.0.1:6053
-[/gexiao.me/]127.0.0.1:6053
 [/gexiaocloud.com/]127.0.0.1:6053
 [/gexinda.com/]127.0.0.1:6053
 [/gexing.com/]127.0.0.1:6053
@@ -41102,7 +41084,6 @@
 [/gxzcpsw.com/]127.0.0.1:6053
 [/gxzcs.com/]127.0.0.1:6053
 [/gxzdsj.com/]127.0.0.1:6053
-[/gxzdyg.com/]127.0.0.1:6053
 [/gxzecai.com/]127.0.0.1:6053
 [/gxzepu.com/]127.0.0.1:6053
 [/gxzero.com/]127.0.0.1:6053
@@ -43826,7 +43807,6 @@
 [/heihei.com/]127.0.0.1:6053
 [/heiheiyuyin.com/]127.0.0.1:6053
 [/heihekeji.com/]127.0.0.1:6053
-[/heijiao.net/]127.0.0.1:6053
 [/heijiaovip.com/]127.0.0.1:6053
 [/heilanhome.com/]127.0.0.1:6053
 [/heilifun.com/]127.0.0.1:6053
@@ -44911,7 +44891,6 @@
 [/hk-vstart.com/]127.0.0.1:6053
 [/hk-xin.com/]127.0.0.1:6053
 [/hk.uy/]127.0.0.1:6053
-[/hk0523.com/]127.0.0.1:6053
 [/hk603.hk/]127.0.0.1:6053
 [/hk8668.com/]127.0.0.1:6053
 [/hk9.com/]127.0.0.1:6053
@@ -47222,7 +47201,6 @@
 [/huichongduo.com/]127.0.0.1:6053
 [/huichuangjialife.com/]127.0.0.1:6053
 [/huichuangzhanlan.com/]127.0.0.1:6053
-[/huicx7.com/]127.0.0.1:6053
 [/huida18.com/]127.0.0.1:6053
 [/huidabbs.com/]127.0.0.1:6053
 [/huidafrp.com/]127.0.0.1:6053
@@ -49186,7 +49164,6 @@
 [/ict88.com/]127.0.0.1:6053
 [/ictbda.com/]127.0.0.1:6053
 [/ictcsr.org/]127.0.0.1:6053
-[/ictdns.icu/]127.0.0.1:6053
 [/ictdns.store/]127.0.0.1:6053
 [/ictdns.tech/]127.0.0.1:6053
 [/ictehi.com/]127.0.0.1:6053
@@ -49828,7 +49805,6 @@
 [/ikjtao.com/]127.0.0.1:6053
 [/ikjxc.com/]127.0.0.1:6053
 [/ikmoo.com/]127.0.0.1:6053
-[/ikncn.com/]127.0.0.1:6053
 [/ikonfx.com/]127.0.0.1:6053
 [/ikongjian.com/]127.0.0.1:6053
 [/ikongjun.com/]127.0.0.1:6053
@@ -50141,7 +50117,6 @@
 [/imsyy.com/]127.0.0.1:6053
 [/imtaweb.net/]127.0.0.1:6053
 [/imtedge.com/]127.0.0.1:6053
-[/imtics.com/]127.0.0.1:6053
 [/imtmp.net/]127.0.0.1:6053
 [/imtrwqjier3.com/]127.0.0.1:6053
 [/imtuan.com/]127.0.0.1:6053
@@ -53156,7 +53131,6 @@
 [/jingsh.com/]127.0.0.1:6053
 [/jingshibang.com/]127.0.0.1:6053
 [/jingshibianhuren.com/]127.0.0.1:6053
-[/jingshistudy.com/]127.0.0.1:6053
 [/jingshizyy.com/]127.0.0.1:6053
 [/jingshun-wl.com/]127.0.0.1:6053
 [/jingshzh.com/]127.0.0.1:6053
@@ -55287,7 +55261,6 @@
 [/jufengcap.com/]127.0.0.1:6053
 [/jufengcompany.com/]127.0.0.1:6053
 [/jufenginfo.com/]127.0.0.1:6053
-[/jufengwuxi.com/]127.0.0.1:6053
 [/jufu.vip/]127.0.0.1:6053
 [/jugao.com/]127.0.0.1:6053
 [/jugezi.com/]127.0.0.1:6053
@@ -55482,7 +55455,6 @@
 [/junziboxue.com/]127.0.0.1:6053
 [/junzimen.com/]127.0.0.1:6053
 [/junziqian.com/]127.0.0.1:6053
-[/junziyize.com/]127.0.0.1:6053
 [/juooo.com/]127.0.0.1:6053
 [/jupiterlauncher.com/]127.0.0.1:6053
 [/jupup.com/]127.0.0.1:6053
@@ -58537,7 +58509,6 @@
 [/lamoton.com/]127.0.0.1:6053
 [/lampbi.com/]127.0.0.1:6053
 [/lampouomo.com/]127.0.0.1:6053
-[/lamwatch.com/]127.0.0.1:6053
 [/lamyu.com/]127.0.0.1:6053
 [/lan-bridge.com/]127.0.0.1:6053
 [/lan-lin.com/]127.0.0.1:6053
@@ -58554,7 +58525,6 @@
 [/lanchuanhuanbao.com/]127.0.0.1:6053
 [/lancn.net/]127.0.0.1:6053
 [/lancong.net/]127.0.0.1:6053
-[/lanconvey.com/]127.0.0.1:6053
 [/lancunwater.com/]127.0.0.1:6053
 [/lancygroup.com/]127.0.0.1:6053
 [/land136.com/]127.0.0.1:6053
@@ -66562,7 +66532,6 @@
 [/n802.com/]127.0.0.1:6053
 [/n8soft.com/]127.0.0.1:6053
 [/n9z.net/]127.0.0.1:6053
-[/na.ci/]127.0.0.1:6053
 [/naaln.com/]127.0.0.1:6053
 [/nabel.cc/]127.0.0.1:6053
 [/nabluemedia.com/]127.0.0.1:6053
@@ -67017,7 +66986,6 @@
 [/ncmtkj.com/]127.0.0.1:6053
 [/ncmtr.com/]127.0.0.1:6053
 [/ncnynl.com/]127.0.0.1:6053
-[/ncogvki.xyz/]127.0.0.1:6053
 [/ncpa-classic.com/]127.0.0.1:6053
 [/ncpc.biz/]127.0.0.1:6053
 [/ncpqh.com/]127.0.0.1:6053
@@ -70651,7 +70619,6 @@
 [/panso.pro/]127.0.0.1:6053
 [/pansoso.com/]127.0.0.1:6053
 [/pansou.com/]127.0.0.1:6053
-[/pansousuo.com/]127.0.0.1:6053
 [/pantherhealthcare.com/]127.0.0.1:6053
 [/pantonechina.com/]127.0.0.1:6053
 [/pantonecn.com/]127.0.0.1:6053
@@ -71058,7 +71025,6 @@
 [/penging.com/]127.0.0.1:6053
 [/pengke.com/]127.0.0.1:6053
 [/penglei.name/]127.0.0.1:6053
-[/pengliao.com/]127.0.0.1:6053
 [/pengpailaw.com/]127.0.0.1:6053
 [/pengrl.com/]127.0.0.1:6053
 [/pengrui-ssj.com/]127.0.0.1:6053
@@ -71242,7 +71208,6 @@
 [/phonecoolgame.com/]127.0.0.1:6053
 [/phonegap.me/]127.0.0.1:6053
 [/phonegap100.com/]127.0.0.1:6053
-[/phonelinksoft.com/]127.0.0.1:6053
 [/phonertech.com/]127.0.0.1:6053
 [/phopic.com/]127.0.0.1:6053
 [/phosun.com/]127.0.0.1:6053
@@ -71869,7 +71834,6 @@
 [/pomeloyun.com/]127.0.0.1:6053
 [/pomoho.com/]127.0.0.1:6053
 [/pondernext.com/]127.0.0.1:6053
-[/ponging.store/]127.0.0.1:6053
 [/ponkong.com/]127.0.0.1:6053
 [/ponley.com/]127.0.0.1:6053
 [/pontite.com/]127.0.0.1:6053
@@ -75106,7 +75070,6 @@
 [/qygbet381.vip/]127.0.0.1:6053
 [/qygbet427.vip/]127.0.0.1:6053
 [/qygjyey.com/]127.0.0.1:6053
-[/qyhgsb.com/]127.0.0.1:6053
 [/qyhl.vip/]127.0.0.1:6053
 [/qyhr.org/]127.0.0.1:6053
 [/qyhxy365.com/]127.0.0.1:6053
@@ -76315,7 +76278,6 @@
 [/rongba.com/]127.0.0.1:6053
 [/rongbiz.com/]127.0.0.1:6053
 [/rongbiz.net/]127.0.0.1:6053
-[/rongbst.com/]127.0.0.1:6053
 [/rongcfg.com/]127.0.0.1:6053
 [/rongchain.com/]127.0.0.1:6053
 [/rongchaodichan.com/]127.0.0.1:6053
@@ -79073,7 +79035,6 @@
 [/shanbotv.com/]127.0.0.1:6053
 [/shancemall.com/]127.0.0.1:6053
 [/shanchuangjiaoyu.com/]127.0.0.1:6053
-[/shancui1688.com/]127.0.0.1:6053
 [/shanda960.com/]127.0.0.1:6053
 [/shandacasual.net/]127.0.0.1:6053
 [/shandagames.com/]127.0.0.1:6053
@@ -81572,6 +81533,7 @@
 [/sireda.com/]127.0.0.1:6053
 [/sirenyouxiang.com/]127.0.0.1:6053
 [/sirfang.com/]127.0.0.1:6053
+[/siriser.com/]127.0.0.1:6053
 [/sirweara.com/]127.0.0.1:6053
 [/siryin.com/]127.0.0.1:6053
 [/siscantech.com/]127.0.0.1:6053
@@ -81805,7 +81767,6 @@
 [/sk2w.net/]127.0.0.1:6053
 [/skatehere.com/]127.0.0.1:6053
 [/skcto.com/]127.0.0.1:6053
-[/skd6.com/]127.0.0.1:6053
 [/skd62.com/]127.0.0.1:6053
 [/skdlabs.com/]127.0.0.1:6053
 [/skeo.net/]127.0.0.1:6053
@@ -81923,7 +81884,6 @@
 [/skyworthnj.com/]127.0.0.1:6053
 [/skyworthznxyj.com/]127.0.0.1:6053
 [/skyxinli.com/]127.0.0.1:6053
-[/skyxvpn.com/]127.0.0.1:6053
 [/skyyin.org/]127.0.0.1:6053
 [/skyzhan.com/]127.0.0.1:6053
 [/skznsb.com/]127.0.0.1:6053
@@ -81964,6 +81924,7 @@
 [/slk1.net/]127.0.0.1:6053
 [/slkg1949.com/]127.0.0.1:6053
 [/sllai.com/]127.0.0.1:6053
+[/slldbs641.vip/]127.0.0.1:6053
 [/sllngy.com/]127.0.0.1:6053
 [/sllssrq.com/]127.0.0.1:6053
 [/slodon.net/]127.0.0.1:6053
@@ -82072,7 +82033,6 @@
 [/smartxiantao.com/]127.0.0.1:6053
 [/smartyao.com/]127.0.0.1:6053
 [/smartyoke.com/]127.0.0.1:6053
-[/smartyun8.com/]127.0.0.1:6053
 [/smartzzx.com/]127.0.0.1:6053
 [/smarun.com/]127.0.0.1:6053
 [/smaryun.com/]127.0.0.1:6053
@@ -82803,7 +82763,6 @@
 [/soyo-dg.com/]127.0.0.1:6053
 [/soyohui.com/]127.0.0.1:6053
 [/soyoung.com/]127.0.0.1:6053
-[/soyouso.com/]127.0.0.1:6053
 [/soyunion.com/]127.0.0.1:6053
 [/soyx123.com/]127.0.0.1:6053
 [/sozdata.com/]127.0.0.1:6053
@@ -84602,7 +84561,6 @@
 [/synykj.net/]127.0.0.1:6053
 [/syobserve.com/]127.0.0.1:6053
 [/syoits.com/]127.0.0.1:6053
-[/syoker.com/]127.0.0.1:6053
 [/syoseo.com/]127.0.0.1:6053
 [/syounggroup.com/]127.0.0.1:6053
 [/sypglass.com/]127.0.0.1:6053
@@ -87372,7 +87330,6 @@
 [/tianmumusic.com/]127.0.0.1:6053
 [/tianmunews.com/]127.0.0.1:6053
 [/tianmupe.com/]127.0.0.1:6053
-[/tiannbo.com/]127.0.0.1:6053
 [/tiannilaw.com/]127.0.0.1:6053
 [/tianning.xyz/]127.0.0.1:6053
 [/tianninghr.com/]127.0.0.1:6053
@@ -89334,13 +89291,11 @@
 [/tuipear.com/]127.0.0.1:6053
 [/tuipinpai.com/]127.0.0.1:6053
 [/tuiplay.com/]127.0.0.1:6053
-[/tuirice.com/]127.0.0.1:6053
 [/tuishao.net/]127.0.0.1:6053
 [/tuishark.com/]127.0.0.1:6053
 [/tuishubang.com/]127.0.0.1:6053
 [/tuishujun.com/]127.0.0.1:6053
 [/tuisnake.com/]127.0.0.1:6053
-[/tuistone.com/]127.0.0.1:6053
 [/tuitiger.com/]127.0.0.1:6053
 [/tuitui.info/]127.0.0.1:6053
 [/tuitui99.com/]127.0.0.1:6053
@@ -89881,7 +89836,6 @@
 [/tzwdsoft.com/]127.0.0.1:6053
 [/tzwpco.com/]127.0.0.1:6053
 [/tzxingtang.com/]127.0.0.1:6053
-[/tzxwzx.com/]127.0.0.1:6053
 [/tzyiyuantuan.com/]127.0.0.1:6053
 [/tzyongda.com/]127.0.0.1:6053
 [/tzyun.com/]127.0.0.1:6053
@@ -92870,7 +92824,6 @@
 [/weaoo.com/]127.0.0.1:6053
 [/weapp.com/]127.0.0.1:6053
 [/weapp.me/]127.0.0.1:6053
-[/weareing.store/]127.0.0.1:6053
 [/wearemanner.com/]127.0.0.1:6053
 [/weareqy.com/]127.0.0.1:6053
 [/wearesellers.com/]127.0.0.1:6053
@@ -93023,7 +92976,6 @@
 [/wedev.cool/]127.0.0.1:6053
 [/wedeveloper.com/]127.0.0.1:6053
 [/wedfairy.com/]127.0.0.1:6053
-[/wedn.net/]127.0.0.1:6053
 [/wedoany.com/]127.0.0.1:6053
 [/wedoctor.com/]127.0.0.1:6053
 [/wedoexpress.com/]127.0.0.1:6053
@@ -96667,7 +96619,6 @@
 [/xeeok.com/]127.0.0.1:6053
 [/xefan.com/]127.0.0.1:6053
 [/xege.org/]127.0.0.1:6053
-[/xegymyb.xyz/]127.0.0.1:6053
 [/xehedu.com/]127.0.0.1:6053
 [/xeknow.com/]127.0.0.1:6053
 [/xeltek-cn.com/]127.0.0.1:6053
@@ -99527,7 +99478,6 @@
 [/xtw-system.com/]127.0.0.1:6053
 [/xtwzyx.com/]127.0.0.1:6053
 [/xtx6.com/]127.0.0.1:6053
-[/xtxbemp.xyz/]127.0.0.1:6053
 [/xtxcm.com/]127.0.0.1:6053
 [/xtxh.net/]127.0.0.1:6053
 [/xtxnxk.sbs/]127.0.0.1:6053
@@ -99566,7 +99516,6 @@
 [/xuanruanjian.com/]127.0.0.1:6053
 [/xuanshitou.com/]127.0.0.1:6053
 [/xuanshu.com/]127.0.0.1:6053
-[/xuanshu.org/]127.0.0.1:6053
 [/xuansiwei.com/]127.0.0.1:6053
 [/xuantaikeji.com/]127.0.0.1:6053
 [/xuanteng.org/]127.0.0.1:6053
@@ -105230,7 +105179,6 @@
 [/yzj.cc/]127.0.0.1:6053
 [/yzja.com/]127.0.0.1:6053
 [/yzjb.com/]127.0.0.1:6053
-[/yzjdgs88.com/]127.0.0.1:6053
 [/yzjj120.com/]127.0.0.1:6053
 [/yzjjw.net/]127.0.0.1:6053
 [/yzjob.net/]127.0.0.1:6053
@@ -106060,7 +106008,6 @@
 [/zgjtb.com/]127.0.0.1:6053
 [/zgjxcad.com/]127.0.0.1:6053
 [/zgjxjjw.com/]127.0.0.1:6053
-[/zgjymg.com/]127.0.0.1:6053
 [/zgjzy.org/]127.0.0.1:6053
 [/zgkao.com/]127.0.0.1:6053
 [/zgkashi.com/]127.0.0.1:6053
@@ -108873,7 +108820,6 @@
 [/znzyf.com/]127.0.0.1:6053
 [/zo-station.com/]127.0.0.1:6053
 [/zoassetmanagement.com/]127.0.0.1:6053
-[/zobmxcfw.com/]127.0.0.1:6053
 [/zocai.com/]127.0.0.1:6053
 [/zocolor.com/]127.0.0.1:6053
 [/zocoxx.com/]127.0.0.1:6053
